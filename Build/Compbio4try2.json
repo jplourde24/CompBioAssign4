@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Comp Bio Assignment 2",
+"dataUrl": "Compbio4try2.data.unityweb",
+"wasmCodeUrl": "Compbio4try2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Compbio4try2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
